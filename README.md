@@ -1,3 +1,5 @@
+Site live: https://starist-tech.github.io/faq-accordion-main/
+
 # Frontend Mentor - FAQ accordion
 
 ![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)
