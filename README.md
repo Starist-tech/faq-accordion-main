@@ -1,4 +1,4 @@
-Site live: https://starist-tech.github.io/faq-accordion-main/
+Site live: https://7amzter.github.io/faq-accordion-main/
 
 # Frontend Mentor - FAQ accordion
 
